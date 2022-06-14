@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 14 Jun 2022 14:28:43 at https://besibaja-dis.netlify.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://besibaja-dis.netlify.app/ -O1 "C:\My Web Sites\besibaja-dis.netlify.app" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:29:13	Error: 	"Not Found" (404) at link https://besibaja-dis.netlify.app/images/produk/Supplier-Material-Besi-Baja-Beton.jpg (from https://besibaja-dis.netlify.app/)
+14:29:13	Error: 	"Not Found" (404) at link https://besibaja-dis.netlify.app/images/produk/Besi-Pipa-kotak.jpg (from https://besibaja-dis.netlify.app/)
+14:29:13	Error: 	"Not Found" (404) at link https://besibaja-dis.netlify.app/images/produk/a6683fc0-3033-48e3-be7d-e4f95290ea7dw.jpg (from https://besibaja-dis.netlify.app/)
+14:29:13	Error: 	"Not Found" (404) at link https://besibaja-dis.netlify.app/images/produk/index.jpg (from https://besibaja-dis.netlify.app/)
+14:29:13	Error: 	"Not Found" (404) at link https://besibaja-dis.netlify.app/images/produk/expanded-metal-lathing-details.jpg (from https://besibaja-dis.netlify.app/)
+14:29:13	Error: 	"Not Found" (404) at link https://besibaja-dis.netlify.app/images/produk/f70a1da9-8834-4e84-93cb-b593a0c24589w.jpg (from https://besibaja-dis.netlify.app/)
+14:29:13	Error: 	"Not Found" (404) at link https://besibaja-dis.netlify.app/images/produk/d4a5bbe8-8258-4ab7-b514-2a396f39af61w.jpg (from https://besibaja-dis.netlify.app/)
+14:29:13	Error: 	"Not Found" (404) at link https://besibaja-dis.netlify.app/images/produk/7c46ab09-eab1-4014-b198-7ddd20c230bbw.jpg (from https://besibaja-dis.netlify.app/)
+14:29:13	Error: 	"Not Found" (404) at link https://besibaja-dis.netlify.app/images/produk/jual-kawat-harmonika-surabaya-300x300.jpg (from https://besibaja-dis.netlify.app/)
+14:29:13	Error: 	"Not Found" (404) at link https://besibaja-dis.netlify.app/images/produk/88be837d-ffd8-4173-995d-871a9b1a03f6w.jpg (from https://besibaja-dis.netlify.app/)
+14:29:13	Error: 	"Not Found" (404) at link https://besibaja-dis.netlify.app/images/produk/a04b77a0-78fc-4a19-a823-9557f6ec9e96w.jpg (from https://besibaja-dis.netlify.app/)
+14:29:13	Error: 	"Not Found" (404) at link https://besibaja-dis.netlify.app/images/produk/bs1387blacksteelpipe.jpg (from https://besibaja-dis.netlify.app/)
+14:29:13	Error: 	"Not Found" (404) at link https://besibaja-dis.netlify.app/images/produk/mild-steel-plate-250x250.jpg (from https://besibaja-dis.netlify.app/)
+14:29:13	Error: 	"Not Found" (404) at link https://besibaja-dis.netlify.app/images/produk/Wiremesh.jpg (from https://besibaja-dis.netlify.app/)
+14:29:13	Error: 	"Not Found" (404) at link https://besibaja-dis.netlify.app/www.dis.or.id (from https://besibaja-dis.netlify.app/)
+14:29:13	Error: 	"Not Found" (404) at link https://besibaja-dis.netlify.app/fonts/glyphicons-halflings-regular.eot (from https://besibaja-dis.netlify.app/css/bootstrap.min.css)
+14:29:13	Error: 	"Not Found" (404) at link https://besibaja-dis.netlify.app/fonts/glyphicons-halflings-regular.eot? (from https://besibaja-dis.netlify.app/css/bootstrap.min.css)
+14:29:13	Error: 	"Not Found" (404) at link https://besibaja-dis.netlify.app/fonts/glyphicons-halflings-regular.woff2 (from https://besibaja-dis.netlify.app/css/bootstrap.min.css)
+14:29:13	Error: 	"Not Found" (404) at link https://besibaja-dis.netlify.app/fonts/glyphicons-halflings-regular.woff (from https://besibaja-dis.netlify.app/css/bootstrap.min.css)
+14:29:13	Error: 	"Not Found" (404) at link https://besibaja-dis.netlify.app/fonts/glyphicons-halflings-regular.ttf (from https://besibaja-dis.netlify.app/css/bootstrap.min.css)
+14:29:13	Error: 	"Not Found" (404) at link https://besibaja-dis.netlify.app/fonts/glyphicons-halflings-regular.svg (from https://besibaja-dis.netlify.app/css/bootstrap.min.css)
+14:29:13	Error: 	"Not Found" (404) at link https://besibaja-dis.netlify.app/css/AjaxLoader.gif (from https://besibaja-dis.netlify.app/css/owl.theme.css)
+14:29:13	Error: 	"Not Found" (404) at link https://besibaja-dis.netlify.app/css/grabbing.png (from https://besibaja-dis.netlify.app/css/owl.carousel.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 30 seconds : 50 links scanned, 26 files written (2613987 bytes overall) [2076184 bytes received at 69206 bytes/sec], 1095481 bytes transferred using HTTP compression in 42 files, ratio 42%
+(23 errors, 0 warnings, 0 messages)
